@@ -147,7 +147,6 @@ Este laboratorio demuestra la capacidad de **diagnóstico y resolución de incid
 ![Profile Views](https://komarev.com/ghpvc/?username=MarceloNH-IT&color=blue&style=flat)
 
 
-![Ping Gateway](FotoNOC.jpg)
 
 * **💼 LinkedIn**: [Horacio Marcelo Nuñez](https://linkedin.com) 
 * **📬 Correo Electrónico**: [marcelonh86@gmail.com](marcelonh86@gmail.com)
