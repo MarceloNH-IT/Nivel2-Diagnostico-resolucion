@@ -135,9 +135,12 @@ Este laboratorio demuestra la capacidad de **diagnóstico y resolución de incid
 - Errores documentados: 3
   
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarceloNH-IT&show_icons=true&theme=radical)
+![Configuración del Adaptador de Red Puente](FotoNOC.jpg)
+## 🤝 Conclusión y Contacto
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloNH-IT&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=MarceloNH-IT&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MarceloNH-IT&layout=compact&theme=radical)
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=MarceloNH-IT&theme=radical)
 
@@ -146,15 +149,10 @@ Este laboratorio demuestra la capacidad de **diagnóstico y resolución de incid
 
 ![Ping Gateway](FotoNOC.jpg)
 
-
-
-* **💼 LinkedIn**: [Horacio Marcelo Nuñez](https://www.linkedin.com/in/marcelo-nunez-it/?skipRedirect=true)
+* **💼 LinkedIn**: [Horacio Marcelo Nuñez](https://linkedin.com) 
 * **📬 Correo Electrónico**: [marcelonh86@gmail.com](marcelonh86@gmail.com)
 * **🚀 GitHub**: [@MarceloNunez-NOC](https://github.com/MarceloNunez-NOC)
-
 
 Agradezco el tiempo de quienes visitan mi portafolio en GitHub. Cada laboratorio refleja mi compromiso con el aprendizaje continuo y la práctica aplicada en IT, redes y administración de sistemas. Mi objetivo es demostrar que puedo diagnosticar, resolver y documentar incidentes de manera profesional, utilizando máquinas virtuales y configuraciones de red.
 
 Invito a reclutadores y colegas a seguir mis repositorios, donde iré compartiendo nuevos proyectos, certificados y logros. Estoy abierto a colaborar y aportar mi experiencia en entornos que valoren la constancia y la capacidad de resolver problemas.
-
-
