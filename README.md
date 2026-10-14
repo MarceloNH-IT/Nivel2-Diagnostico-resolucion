@@ -1,5 +1,9 @@
 # 🌐 Configuración Básica de IP en Linux – Nivel 2
 
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=MarceloNH-IT.MarceloNH-IT&style=flat&color=blue)
+
+
+
 Esta práctica demuestra cómo un operador de nivel 2 puede:
 - Detectar fallos de conectividad más allá de la configuración básica.
 - Revisar tabla de rutas y configuración del hipervisor.
@@ -144,7 +148,7 @@ Este laboratorio demuestra la capacidad de **diagnóstico y resolución de incid
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=MarceloNH-IT&theme=radical)
 
-![Profile Views](https://komarev.com/ghpvc/?username=MarceloNH-IT&color=blue&style=flat)
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=MarceloNH-IT.MarceloNH-IT&style=flat&color=blue)
 
 
 
